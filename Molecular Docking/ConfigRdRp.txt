@@ -1,0 +1,14 @@
+receptor = RdRp.pdbqt
+ligand = Capsaicin.pdbqt
+
+center_x = 168.921
+center_y = 148.822
+center_z = 128.068
+
+size_x = 100
+size_y = 100
+size_z = 100
+
+energy_range = 4
+
+exhaustiveness = 8

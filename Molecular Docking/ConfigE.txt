@@ -1,0 +1,14 @@
+receptor = E.pdbqt
+ligand = Capsaicin.pdbqt
+
+center_x = -0.257
+center_y = -0.011
+center_z = -0.09
+
+size_x = 132
+size_y = 132
+size_z = 132
+
+energy_range = 4
+
+exhaustiveness = 8
